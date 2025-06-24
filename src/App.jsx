@@ -5,10 +5,6 @@ import Result from "./Result";
 
 let generatedWords = generate(40);
 
-
-
-
-
 function App() {
   // const generatedWords = generate(33);
   const [currentWord, setCurrentWord] = useState("");
